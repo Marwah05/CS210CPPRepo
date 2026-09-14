@@ -13,8 +13,9 @@ Point::Point(double x, double y):x_(x),y_(y) {
 
 }
 
-Point::Point(double xy): Point(xy, xy){
+Point::Point(double xy): Point(xy, xy) {
     // TODO: delegate to the two-argument constructor with both
     // coordinates set to xy. Rewrite the line above to read:
     //   Point::Point(double xy) : Point(xy, xy) {
+
 }
