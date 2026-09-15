@@ -25,7 +25,7 @@ void Stack::push(int value) {
 int Stack::pop() {
     if (isEmpty()) { // Check if the list is empty
         std::cout << "Stack is empty, cannot pop." << std::endl;
-        return 0;
+        return -1;
     }
     int value = data[topIndex]; // Return the top index
     topIndex--; // Decrement the topIndex
@@ -41,7 +41,7 @@ int Stack::pop() {
 int Stack::peek() const {
     if (isEmpty()) {
         std::cout << "Stack is empty, cannot peek." << std::endl;
-        return 0;
+        return -1;
     }
     return data[topIndex];
 }
