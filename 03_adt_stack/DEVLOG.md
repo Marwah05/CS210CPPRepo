@@ -8,4 +8,4 @@ I created and worked on ERRORLOG.md and documented 2 of the errors I encountered
 
 9/14/2026 - 10:01pm  
 
-I finally created the A2README.md file and answered the questions 
+I created and finished the A2README.md file and answered all of the questions on there. One decision I made was to go back and forth between my code as I answered the questions to make sure my answers were based on my code properly. This helped me catch actual differences in what I thought my code was outputting vs. what it was actually printing. What I would have done differently is read my code carefully after finishing to make sure everything was running and printing everything as expected to not deal with constant back and forth while answering assignment questions.
