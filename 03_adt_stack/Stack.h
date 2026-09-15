@@ -18,7 +18,7 @@ public:
     Stack();
     void push(int value);   // add to the top
     int pop();              // remove the top (does nothing if empty)
-    int peek() const;             //
+    int peek() const;             // peek into the array
     //  int top() const;        // look at the top without removing it
     bool isEmpty() const;
     bool isFull() const;

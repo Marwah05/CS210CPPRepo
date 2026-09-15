@@ -14,7 +14,7 @@ Stack::Stack() {
 }
 
 void Stack::push(int value) {
-    if (isFull()) { // Check if the list is full
+    if (isFull()) { // Check if the list is already full
         std::cout << "Stack is full, cannot push." << std::endl;
         return;
     }
@@ -39,7 +39,7 @@ int Stack::pop() {
 // }
 
 int Stack::peek() const {
-    if (isEmpty()) {
+    if (isEmpty()) { // Check if the array is empty first
         std::cout << "Stack is empty, cannot peek." << std::endl;
         return -1;
     }
