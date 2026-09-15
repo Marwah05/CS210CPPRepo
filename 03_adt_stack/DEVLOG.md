@@ -4,4 +4,8 @@ I worked on the main Stack assignment by editing Stack.cpp, Stack.h, and main.cp
 
 9/14/2026 - 8:50pm  
 
-I created and worked on ERRORLOG.md and documented 2 of the errors I encountered while working on the assignment. One of the decisions I made was to record a specific error I went through multiple times because it's clearly important to state it because of its common occurrance. I made this decision because it's important to make error logs and emphasize the ones that repeated multiple times, in my case the return type being different between files. What I would do differently there is jot down error and a quick explanation of why it happened instead of just leaving it in a notepad as I had to go back and decipher what the error said to remember what happened. It's also a good habit to do things in a timely manner, in this instance right when it happens rather than later and causing the forgetting issue.
+I created and worked on ERRORLOG.md and documented 2 of the errors I encountered while working on the assignment. One of the decisions I made was to record a specific error I went through multiple times because it's clearly important to state it because of its common occurrance. I made this decision because it's important to make error logs and emphasize the ones that repeated multiple times, in my case the return type being different between files. What I would do differently there is jot down error and a quick explanation of why it happened instead of just leaving it in a notepad as I had to go back and decipher what the error said to remember what happened. It's also a good habit to do things in a timely manner, in this instance right when it happens rather than later and causing the forgetting issue.  
+
+9/14/2026 - 10:01pm  
+
+I finally created the A2README.md file and answered the questions 
